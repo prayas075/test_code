@@ -18,7 +18,7 @@ public class Occurence {
 			}
 		}
 
-		System.out.println(map);
+		System.out.println(map+"My map");
 	}
 
 }
