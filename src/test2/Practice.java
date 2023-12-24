@@ -5,8 +5,12 @@ import java.util.Map;
 
 public class Practice {
 	public static void main(String[] args) {
+<<<<<<< HEAD
 		String str1 = "Prayas Pikalmunde";
 		//from local
+=======
+		String str1 = "Prayas Pikalmunde from remote";
+>>>>>>> 9a2ca6bcef8139800002aa916721682de700a76a
 		String longString = null;
 		Integer longLen = 0;
 		char[] ch1 = str1.toCharArray();
