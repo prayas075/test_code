@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class Practice {
 	public static void main(String[] args) {
-		String str1 = "Prayas Pikalmunde";
+		String str1 = "Prayas Pikalmunde from remote";
 		String longString = null;
 		Integer longLen = 0;
 		char[] ch1 = str1.toCharArray();
